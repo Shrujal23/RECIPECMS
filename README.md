@@ -1,5 +1,8 @@
 # RecipeCMS
 
+[![MySQL](https://img.shields.io/badge/MySQL-100000?style=flat-square&logo=mysql&logoColor=white)]()
+
+
 RecipeCMS is a content management system database designed for managing recipes, users, ingredients, categories, and comments. It provides a structured way to store and organize recipe data, including user-generated content and interactions.
 
 ## Features
@@ -22,6 +25,7 @@ The database consists of the following tables:
 - **Categories**: Defines recipe categories.
 - **Recipe_Categories**: Junction table associating recipes with categories.
 - **Comments**: Stores user comments on recipes.
+
 
 ## ER Diagram
 
